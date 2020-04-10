@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Passion+One&display=swap');
+* 
+.h2 {
+	color:#3b6b7b;
+}
+
+.introduction {
+	width: 60%;
+}
+
+.education {
+	width: 60%;
+}
+
+
+.skills {
+	width: 60%;
+}
+
+.activities {
+	width: 60%;
+}
+
+.projects {
+	width: 60%;
+}
+
+.contact {
+	background:#7daaba;
+}
+
+.contact1 {
+	color:#3b6b7b;
+}
+
+.about {
+	background:#c4989d;
+}
+
+.intro {
+	background:#f3a670;
+	color: #fefefe;
+}
+
+.body {
+	background-color: #f1ede2;
+}
+
+.body1 {
+	
+}
+
+.body2 {
+	background-color: #f8f7fd;
+}
+
+.cv {
+	width: 50%;  
+}
+
+.chs {
+	width: 33%; 
+}
+
+.contact-pic {
+	width: 40%;
+}
+
+.int {
+	font-size: 50px;
+	color: #6e679d;
+	font-family: 'Archivo Black';
+	background-color: #e8e2d4;
+}
+
+.art-pic {
+	width: 30%;
+}
